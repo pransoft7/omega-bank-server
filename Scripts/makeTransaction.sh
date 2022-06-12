@@ -4,6 +4,8 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
+# To be run by the Account Holders to make Transactions
+
 #Initialising balfile as the Current Balance file
 balfile="/home/$USER/Current_Balance.txt"
 #Initialising transfile as Transaction History file
