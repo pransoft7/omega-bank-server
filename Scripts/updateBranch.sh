@@ -4,6 +4,8 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
+# To be run by Branch Managers
+
 branchBal=0
 
 > /home/$USER/Branch_Transaction_History.txt
