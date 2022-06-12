@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#NIT T, Delta Club Induction, 202206
+#Pranava S Kumar Roll No 103121087
+#Civil Engg 2021-2025
+
 #Initialising balfile as the Current Balance file
 balfile="/home/$USER/Current_Balance.txt"
 #Initialising transfile as Transaction History file
