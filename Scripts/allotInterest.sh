@@ -4,6 +4,8 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
+# To be run by the Branch Managers to allot Interest to the Account Holders of their respective Branches
+
 while read acc_name status category acc_type
 do
 	netint=0
