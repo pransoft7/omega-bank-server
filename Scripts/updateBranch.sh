@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#NIT T, Delta Club Induction, 202206
+#Pranava S Kumar Roll No 103121087
+#Civil Engg 2021-2025
+
 branchBal=0
 
 > /home/$USER/Branch_Transaction_History.txt
