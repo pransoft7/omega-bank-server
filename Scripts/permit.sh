@@ -4,7 +4,7 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
-# To be run by obsysad - provide User_Accounts.txt as command line argument
+# To be run by admin - provide User_Accounts.txt as command line argument
 # Should be run after running genUser script
 
 function accholder_permit() {
