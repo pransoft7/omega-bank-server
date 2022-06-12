@@ -4,6 +4,8 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
+# To be run by the Branch Manager to generate a Summary of the Account Holders of their Branch
+
 # Displays accounts with highest change in bank balance
 
 # Initialising "Change in Balance" file as balDiffFile
