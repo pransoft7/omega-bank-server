@@ -4,6 +4,9 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
+# To be run by obsysad - provide User_Accounts.txt as command line argument
+# Should be run after running genUser script
+
 function accholder_permit() {
 	sudo chown $acc_name:$acc_name /home/$acc_name/Current_Balance.txt /home/$acc_name/Transaction_History.txt
 	sudo chmod 660 /home/$acc_name/Current_Balance.txt /home/$acc_name/Transaction_History.txt
