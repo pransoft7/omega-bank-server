@@ -23,7 +23,7 @@ then
     while read branch
     do
     	sudo useradd -m $branch
-	echo "Branch manager added"
+	echo "$branch manager added"
 	intRateFile="/home/$branch/Daily_Interest_Rates.txt"
 	brBalFile="/home/$branch/Branch_Current_Balance.txt"
 	brTransFile="/home/$branch/Branch_Transaction_History.txt"
