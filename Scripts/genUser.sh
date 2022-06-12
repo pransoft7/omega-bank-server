@@ -4,7 +4,8 @@
 #Pranava S Kumar Roll No 103121087
 #Civil Engg 2021-2025
 
-#To be run by obsysad - generate users from User_Accounts.txt & Branch Managers can add Account holders for their branch manually from obsysad User
+# To be run by obsysad - generate users from User_Accounts.txt by providing it as command line argument
+# Branch Managers can add Account holders for their branch manually from obsysad User
 
 function create_acc_holder() {
 	sudo useradd -m $acc_name
